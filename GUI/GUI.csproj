@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7AF9678-C8AC-4DF2-AE21-7036A368D8CF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="telaCadastroEAvaliacao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaCadastroEAvaliacao1.Designer.cs">
+      <DependentUpon>telaCadastroEAvaliacao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaGraficos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaGraficos.Designer.cs">
+      <DependentUpon>telaGraficos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaInicial.Designer.cs">
+      <DependentUpon>telaInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="telaListaAvaliacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaListaAvaliacoes.Designer.cs">
+      <DependentUpon>telaListaAvaliacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaNovaAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaNovaAvaliacao.Designer.cs">
+      <DependentUpon>telaNovaAvaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaParametros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaParametros.Designer.cs">
+      <DependentUpon>telaParametros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaPedeMatricula.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaPedeMatricula.Designer.cs">
+      <DependentUpon>telaPedeMatricula.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaVisualizaAvaliacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaVisualizaAvaliacao.Designer.cs">
+      <DependentUpon>telaVisualizaAvaliacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaVisualizacaoCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaVisualizacaoCadastro.Designer.cs">
+      <DependentUpon>telaVisualizacaoCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="telaVisualizaSerie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="telaVisualizaSerie.Designer.cs">
+      <DependentUpon>telaVisualizaSerie.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="telaCadastroEAvaliacao1.resx">
+      <DependentUpon>telaCadastroEAvaliacao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaGraficos.resx">
+      <DependentUpon>telaGraficos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaInicial.resx">
+      <DependentUpon>telaInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaListaAvaliacoes.resx">
+      <DependentUpon>telaListaAvaliacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaNovaAvaliacao.resx">
+      <DependentUpon>telaNovaAvaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaParametros.resx">
+      <DependentUpon>telaParametros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaPedeMatricula.resx">
+      <DependentUpon>telaPedeMatricula.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaVisualizaAvaliacao.resx">
+      <DependentUpon>telaVisualizaAvaliacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaVisualizacaoCadastro.resx">
+      <DependentUpon>telaVisualizacaoCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="telaVisualizaSerie.resx">
+      <DependentUpon>telaVisualizaSerie.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{0d53cad0-476a-41a6-b62f-70e33f66de31}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{f1f47b63-5faf-4627-b26b-0354fcc88155}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{e7e6f312-4ce6-4a99-b37f-cbb3dc92e1ec}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

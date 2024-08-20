@@ -1,0 +1,78 @@
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.exe
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaCadastroEAvaliacao1.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaInicial.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaListaAvaliacoes.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaPedeMatricula.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaAvaliacao.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizacaoCadastro.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaNovaAvaliacao.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaSerie.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaGraficos.resources
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaParametros.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.exe
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.pdb
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.dll
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.dll
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.dll
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.pdb
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.pdb
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.pdb
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaCadastroEAvaliacao1.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaGraficos.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaInicial.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaListaAvaliacoes.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaNovaAvaliacao.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaParametros.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaPedeMatricula.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaAvaliacao.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizacaoCadastro.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaSerie.resources
+C:\Users\Alucard1993\Documents\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.exe
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe.config
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.exe
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\GUI.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\BLL.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\DAL.dll.config
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\bin\Debug\Modelo.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaCadastroEAvaliacao1.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaGraficos.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaInicial.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaListaAvaliacoes.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaNovaAvaliacao.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaParametros.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaPedeMatricula.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaAvaliacao.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizacaoCadastro.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.telaVisualizaSerie.resources
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\GUI\obj\Debug\GUI.csproj.Up2Date

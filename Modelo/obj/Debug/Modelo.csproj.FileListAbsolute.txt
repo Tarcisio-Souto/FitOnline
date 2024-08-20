@@ -1,0 +1,16 @@
+C:\Users\Alucard1992\Desktop\FitOnline\Modelo\bin\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\FitOnline\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\FitOnline\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Alucard1992\Desktop\FitOnline\Modelo\obj\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\FitOnline\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\Modelo\bin\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\bin\Debug\Modelo.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\bin\Debug\Modelo.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\Modelo\obj\Debug\Modelo.pdb

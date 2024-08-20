@@ -1,0 +1,26 @@
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\bin\Debug\DAL.dll.config
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\bin\Debug\DAL.dll
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\bin\Debug\DAL.pdb
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\bin\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\bin\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\obj\Debug\DAL.dll
+C:\Users\Alucard1992\Desktop\FitOnline\DAL\obj\Debug\DAL.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.dll.config
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\Modelo.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\Modelo.pdb
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.dll
+C:\Users\Alucard1992\Desktop\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.dll.config
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\DAL.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\Modelo.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\bin\Debug\Modelo.pdb
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.dll
+C:\Users\tarcisio.souto.VH\Music\FitOnline (03-12-2016)\FitOnline\Código FitOnline\Cópia\FitOnline\DAL\obj\Debug\DAL.pdb
